@@ -1,0 +1,19 @@
+.bs-logo {
+    height: 20px;
+    width: 20px;
+}
+
+button.navbar-toggle {
+    border: none;
+    background-color: inherit;
+}
+
+.navbar-inverse .navbar-toggle:focus,
+.navbar-inverse .navbar-toggle:hover {
+    background-color: inherit;
+}
+
+.bs-main-nav {
+    margin-bottom: 30px;
+}
+
